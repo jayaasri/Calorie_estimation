@@ -19,6 +19,5 @@
 - **Pillow (PIL)**
 - **NumPy**
 
-- 
 **Get in Touch:** Use the contact form to connect with me for collaborations or inquiries.
 https://forms.gle/A7vo4x7KeKZ37w1p8
