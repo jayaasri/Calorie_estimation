@@ -1,8 +1,4 @@
-# Fruits 🍉 - Vegetable Calorie Estimation
-
-
-
-
+# Fruits 🍉 - Vegetable 🥕 Calorie Estimation
 
 - Dataset that I have used is [Fruit and Vegetable Image Recognition](https://www.kaggle.com/kritikseth/fruit-and-vegetable-image-recognition).
 
